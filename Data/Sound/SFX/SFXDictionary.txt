@@ -1,0 +1,29 @@
+SwordSwich1.wav           - swordswish.mp3
+RifleFire1.wav            - car15semiautosingleshot.mp3
+ShotgunFire1.wav          - 50calibershotgun004.mp3
+HitByPhysical1.wav        - FleshHit1.wav
+FootStepsHard1.wav        - footsteps-4.wav - soundjay
+RifleFireReload1.wav      - belt-1.wav - soundjay
+ShotgunFireReload1.wav    - belt-2.wav - soundjay
+WeaponSwitch1.wav         - cloth-2.wav - SoundJay
+DogBite1.wav              - Dog Bite-SoundBible.com-107030898.wav
+HitByBullet1.wav          - Improved Effects, bullet_hit2.ogg
+HitBySword1.wav           - Improved Effects, hurt1.ogg
+HitByGrunt1.wav           - Improved Effects, pain1.ogg
+FireBreath1.wav	          - http://korea119.pe.kr/midi/m11.wav -m11.wav
+ButtonClick1.wav          - SoundJay, button-34
+MenuFadeIn1.wav           - SoundJay, button-43
+AmmoPickukp1.waw          - SoundJay, button-30
+Charge1.wav               - http://www.therecordist.com/free-sfx - Whoosh_Space_SE.mp3
+RifleEmpty1.wav           - Improved Effects, pistol_empty.ogg
+RottenTreeHitBySword1.wav - Improved Effects, wood03gr.ogg
+Jump1.wav                 - Improved soundeffects pain1.ogg
+HumanDeath1.wav           - Improved Effects - die1.ogg
+DogStepsGrass1.wav        - n_grass_1.ogg & n_grass_2.ogg
+FootStepsGrass1.wav       - n_grass_1.ogg & n_grass_2.ogg
+Slither1.wav              - n_grass_4.ogg
+SlamImpact1.wav           - SoundSnap, Rockey impact
+ThrowNet1.wav		  	  - SoundSnap, Matrial arts ninja
+ReceiveNet1.wav		  	  - SoundSnap, Clothing-lether
+PiranhaSwimming1.wav      - SoundSnap, swimming butterfly style & 12116401
+Malaria1.wav              - SoundSnap, Bees in an apiary x2

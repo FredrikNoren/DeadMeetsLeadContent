@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<Data>
+  <Object cast="object" type="Client.Game.Map.MapDynamicData, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="3ac7ba03-cbe6-49d2-91d9-2eb8ae0c515a">
+    <Member name="MapDynamicData+Scripts" cast="object" type="System.Collections.Generic.List`1[[Client.Game.Map.Script, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="dce48b1b-bf09-48d2-a4f8-37af0522b7d1">
+      <Element cast="object" type="Client.Game.Map.LetterboxViewScript, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="655fda6d-99d5-48d5-a0eb-10a60be9cee4">
+        <Member name="LetterboxViewScript+&lt;ScrollTime&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+tickAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+duractionAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+initDelayAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="MapScript+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">LetterboxViewScript1</Member>
+        <Member name="MapScript+&lt;UserAbortable&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsPerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsEffectivePerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;TickPeriod&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;InitDelay&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+&lt;EffectiveDuration&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;Enabled&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+        <Member name="Script+&lt;LastCannotPerformReason&gt;k__BackingField" cast="value" type="Client.Game.CannotPerformReason, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+      </Element>
+      <Element cast="object" type="Client.Game.Map.HideInterfaceScript, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="02ef49b2-cc07-418a-8a5a-796541936791">
+        <Member name="Script+tickAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+duractionAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+initDelayAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="MapScript+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">HideInterfaceScript2</Member>
+        <Member name="MapScript+&lt;UserAbortable&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsPerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsEffectivePerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;TickPeriod&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;InitDelay&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+&lt;EffectiveDuration&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;Enabled&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+        <Member name="Script+&lt;LastCannotPerformReason&gt;k__BackingField" cast="value" type="Client.Game.CannotPerformReason, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+      </Element>
+      <Element cast="object" type="Client.Game.Map.HideCursorScript, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="f467c09a-abcd-4a79-8517-b333c8dd99cc">
+        <Member name="Script+tickAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+duractionAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+initDelayAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="MapScript+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">HideCursorScript3</Member>
+        <Member name="MapScript+&lt;UserAbortable&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsPerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsEffectivePerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;TickPeriod&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;InitDelay&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+&lt;EffectiveDuration&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;Enabled&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+        <Member name="Script+&lt;LastCannotPerformReason&gt;k__BackingField" cast="value" type="Client.Game.CannotPerformReason, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+      </Element>
+      <Element cast="object" type="Client.Game.Map.RandomizeBetweenCameraViewsScript, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="07a8c833-6f6a-4bf3-8f56-c39373999754">
+        <Member name="RandomizeBetweenCameraViewsScript+max" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+tickAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+duractionAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+initDelayAcc" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="MapScript+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">RandomizeBetweenCameraViewsScript0</Member>
+        <Member name="MapScript+&lt;UserAbortable&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsPerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;IsEffectivePerforming&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+        <Member name="Script+&lt;TickPeriod&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;InitDelay&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Script+&lt;EffectiveDuration&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3.402823E+38</Member>
+        <Member name="Script+&lt;Enabled&gt;k__BackingField" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+        <Member name="Script+&lt;LastCannotPerformReason&gt;k__BackingField" cast="value" type="Client.Game.CannotPerformReason, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+      </Element>
+    </Member>
+    <Member name="MapDynamicData+SceneRoot" cast="object" type="Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01" reference="da508fb2-d176-458f-9f78-d2d116b6f886">
+      <Member name="Entity+children" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="c923cfc4-d80e-4e39-af91-596544fa86c2">
+        <Element cast="object" type="Client.Game.Map.Units.MainCharacter, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="c5946195-f9de-4434-80c3-89a469af8388">
+          <Member name="MainCharacter+isSlamming" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="MainCharacter+MeleeWeapon" cast="value" type="Client.MeleeWeapons, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+          <Member name="MainCharacter+RangedWeapon" cast="value" type="Client.RangedWeapons, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+          <Member name="MainCharacter+RageWings" cast="null" />
+          <Member name="MainCharacter+selectedWeapon" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="MainCharacter+lookatDir" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="MainCharacter+&lt;TalismansCollected&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="MainCharacter+&lt;TorsoLean&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+JumpAnimationStage" cast="value" type="Client.Game.Map.JumpAnimationStage, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+          <Member name="Entity+world" cast="object" type="SlimDX.Matrix, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="789d318e-b677-4f2f-88b1-4dcda910d2ef">
+            <Member name="Matrix+M11" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M12" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M13" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M14" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M21" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M22" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M23" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M24" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M31" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M32" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M33" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M34" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M41" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">100.0964</Member>
+            <Member name="Matrix+M42" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">100.0876</Member>
+            <Member name="Matrix+M43" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.3860626</Member>
+            <Member name="Matrix+M44" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+invTranspWorld" cast="object" type="SlimDX.Matrix, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="8c573fc3-2aa0-46a2-8583-f3390a4ed40c">
+            <Member name="Matrix+M11" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M12" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M13" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M14" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M21" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M22" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M23" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M24" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M31" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M32" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M33" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Matrix+M34" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M41" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M42" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M43" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M44" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+worldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+invTranspWorldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+translation" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="de92c744-c026-47f2-a240-e5e874635a55">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">100.0964</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">100.0876</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.3860626</Member>
+          </Member>
+          <Member name="Entity+scale" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="6d5ab831-0de8-4388-a138-591afdcbbaac">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+rotation" cast="object" type="SlimDX.Quaternion, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="c0d5e108-92ac-4b79-b277-2fe29e0e4ffa">
+            <Member name="Quaternion+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+W" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+translationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+scaleOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+rotationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Unit+piranhaSwimmingChannel" cast="null" />
+          <Member name="Unit+rippleI" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canControlMovementBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          <Member name="Unit+canPerformAbilitiesBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          <Member name="Unit+StartPerformAbility" cast="null" />
+          <Member name="Unit+animationsCount" cast="object" type="System.Collections.Generic.Dictionary`2[[Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026],[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="ab02f33f-8e0d-4abe-9a13-0319ad45cf98">
+            <Element>
+              <Key cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">14</Key>
+              <Value cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">3</Value>
+            </Element>
+          </Member>
+          <Member name="Unit+idleAnimation" cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">14</Member>
+          <Member name="Unit+&lt;CanControlRotationBlockers&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          <Member name="Unit+&lt;MeleeDamageBonus&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Destructible+isDestructible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Destructible+state" cast="value" type="Client.Game.Map.UnitState, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">2</Member>
+          <Member name="Destructible+TakesDamage" cast="null" />
+          <Member name="Destructible+currentScrollingCombatText" cast="null" />
+          <Member name="Destructible+&lt;Team&gt;k__BackingField" cast="value" type="Client.Game.Map.Team, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">4</Member>
+          <Member name="Destructible+&lt;DamageLastFrame&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Entity+children" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="2e22baa6-b131-4fc6-bb4d-6871b3106937" />
+          <Member name="Entity+offspring" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="3cfb4764-2c94-46df-85ca-3fd40354d195" />
+          <Member name="Entity+clickable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+visible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">MainCharacter</Member>
+          <Member name="Entity+&lt;Tag&gt;k__BackingField" cast="null" />
+          <Member name="Entity+&lt;OrientationRelation&gt;k__BackingField" cast="value" type="Graphics.OrientationRelation, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01">0</Member>
+        </Element>
+        <Element cast="object" type="Client.Game.Map.Units.Grunt, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="02bbc782-06e2-41b7-8bdb-4a0bf89475c7">
+          <Member name="NPC+lastChasing" cast="null" />
+          <Member name="Unit+JumpAnimationStage" cast="value" type="Client.Game.Map.JumpAnimationStage, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+          <Member name="Entity+world" cast="object" type="SlimDX.Matrix, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="44d4c08c-f4fb-42e1-94e4-287228286ccd">
+            <Member name="Matrix+M11" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.8393191</Member>
+            <Member name="Matrix+M12" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.4027997</Member>
+            <Member name="Matrix+M13" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M14" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M21" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4027997</Member>
+            <Member name="Matrix+M22" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.8393191</Member>
+            <Member name="Matrix+M23" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M24" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M31" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M32" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M33" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9309695</Member>
+            <Member name="Matrix+M34" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M41" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">104.9362</Member>
+            <Member name="Matrix+M42" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">106.26</Member>
+            <Member name="Matrix+M43" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4174662</Member>
+            <Member name="Matrix+M44" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+invTranspWorld" cast="reference">8c573fc3-2aa0-46a2-8583-f3390a4ed40c</Member>
+          <Member name="Entity+worldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+invTranspWorldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+translation" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="d20a125f-6ce5-417f-89b3-ed7285ca35e0">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">104.9362</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">106.26</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4174662</Member>
+          </Member>
+          <Member name="Entity+scale" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="19893b36-83e2-4e85-8b05-632c519b4a4d">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9309695</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9309695</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9309695</Member>
+          </Member>
+          <Member name="Entity+rotation" cast="object" type="SlimDX.Quaternion, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="681d67a9-2a4c-41a4-b650-38f578c5b4b0">
+            <Member name="Quaternion+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9750779</Member>
+            <Member name="Quaternion+W" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.2218627</Member>
+          </Member>
+          <Member name="Entity+translationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+scaleOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+rotationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="HumanZombie+idleSoundChannel" cast="null" />
+          <Member name="NPC+onHitSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="NPC+onKilledSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+piranhaSwimmingChannel" cast="null" />
+          <Member name="Unit+rippleI" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canControlMovementBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canPerformAbilitiesBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+StartPerformAbility" cast="null" />
+          <Member name="Unit+animationsCount" cast="object" type="System.Collections.Generic.Dictionary`2[[Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026],[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="a5c34815-ecee-4fb5-93ce-0bd4f0e9b40e">
+            <Element>
+              <Key cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">16</Key>
+              <Value cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Value>
+            </Element>
+          </Member>
+          <Member name="Unit+idleAnimation" cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">14</Member>
+          <Member name="Unit+&lt;CanControlRotationBlockers&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+&lt;MeleeDamageBonus&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Destructible+isDestructible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Destructible+state" cast="value" type="Client.Game.Map.UnitState, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">3</Member>
+          <Member name="Destructible+TakesDamage" cast="null" />
+          <Member name="Destructible+currentScrollingCombatText" cast="null" />
+          <Member name="Destructible+&lt;Team&gt;k__BackingField" cast="value" type="Client.Game.Map.Team, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+          <Member name="Destructible+&lt;DamageLastFrame&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Entity+children" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="4286326c-2783-4f36-ad74-323710ad4f0e" />
+          <Member name="Entity+offspring" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="857cdb6b-cd88-4254-9adb-f863e434a2f4" />
+          <Member name="Entity+clickable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+visible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Grunt1</Member>
+          <Member name="Entity+&lt;Tag&gt;k__BackingField" cast="null" />
+          <Member name="Entity+&lt;OrientationRelation&gt;k__BackingField" cast="value" type="Graphics.OrientationRelation, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01">0</Member>
+        </Element>
+        <Element cast="object" type="Client.Game.Map.Units.Grunt, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="7258d09a-f39d-42c8-b817-d9bfd17f40cd">
+          <Member name="NPC+lastChasing" cast="null" />
+          <Member name="Unit+JumpAnimationStage" cast="value" type="Client.Game.Map.JumpAnimationStage, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+          <Member name="Entity+world" cast="object" type="SlimDX.Matrix, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="9d9b7473-3013-4395-ba37-80471786aab8">
+            <Member name="Matrix+M11" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.9219319</Member>
+            <Member name="Matrix+M12" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.2092766</Member>
+            <Member name="Matrix+M13" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M14" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M21" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.2092766</Member>
+            <Member name="Matrix+M22" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.9219319</Member>
+            <Member name="Matrix+M23" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M24" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M31" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M32" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M33" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9453862</Member>
+            <Member name="Matrix+M34" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M41" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">103.952</Member>
+            <Member name="Matrix+M42" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">105.9362</Member>
+            <Member name="Matrix+M43" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4314203</Member>
+            <Member name="Matrix+M44" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+invTranspWorld" cast="reference">8c573fc3-2aa0-46a2-8583-f3390a4ed40c</Member>
+          <Member name="Entity+worldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+invTranspWorldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+translation" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="10cf25e3-7d15-4d68-a855-ef72bdb329ca">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">103.952</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">105.9362</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4314203</Member>
+          </Member>
+          <Member name="Entity+scale" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="07a2f7dd-48cf-4f67-949b-9f901cb41a3b">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9453862</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9453862</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9453862</Member>
+          </Member>
+          <Member name="Entity+rotation" cast="object" type="SlimDX.Quaternion, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="4e4d94d2-bf6a-48ca-b66e-9d3d3f6bd321">
+            <Member name="Quaternion+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9937783</Member>
+            <Member name="Quaternion+W" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.1113761</Member>
+          </Member>
+          <Member name="Entity+translationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+scaleOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+rotationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="HumanZombie+idleSoundChannel" cast="null" />
+          <Member name="NPC+onHitSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="NPC+onKilledSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+piranhaSwimmingChannel" cast="null" />
+          <Member name="Unit+rippleI" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canControlMovementBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canPerformAbilitiesBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+StartPerformAbility" cast="null" />
+          <Member name="Unit+animationsCount" cast="object" type="System.Collections.Generic.Dictionary`2[[Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026],[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="1dfdd926-1666-4304-851a-647612e0e95e">
+            <Element>
+              <Key cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">16</Key>
+              <Value cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Value>
+            </Element>
+          </Member>
+          <Member name="Unit+idleAnimation" cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">14</Member>
+          <Member name="Unit+&lt;CanControlRotationBlockers&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+&lt;MeleeDamageBonus&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Destructible+isDestructible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Destructible+state" cast="value" type="Client.Game.Map.UnitState, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">3</Member>
+          <Member name="Destructible+TakesDamage" cast="null" />
+          <Member name="Destructible+currentScrollingCombatText" cast="null" />
+          <Member name="Destructible+&lt;Team&gt;k__BackingField" cast="value" type="Client.Game.Map.Team, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+          <Member name="Destructible+&lt;DamageLastFrame&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Entity+children" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="1cc263f0-eb0c-4a13-8370-8c4599ed9fa1" />
+          <Member name="Entity+offspring" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="9e5b279c-5407-417a-90ea-712bf6659416" />
+          <Member name="Entity+clickable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+visible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Grunt2</Member>
+          <Member name="Entity+&lt;Tag&gt;k__BackingField" cast="null" />
+          <Member name="Entity+&lt;OrientationRelation&gt;k__BackingField" cast="value" type="Graphics.OrientationRelation, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01">0</Member>
+        </Element>
+        <Element cast="object" type="Client.Game.Map.Units.Brute, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="0be38973-0d56-4ec2-8df3-4cbfb91d48c8">
+          <Member name="NPC+lastChasing" cast="null" />
+          <Member name="Unit+JumpAnimationStage" cast="value" type="Client.Game.Map.JumpAnimationStage, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+          <Member name="Entity+world" cast="object" type="SlimDX.Matrix, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="a8708e23-2253-4bbb-9f82-0b62dae7cd83">
+            <Member name="Matrix+M11" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.5259861</Member>
+            <Member name="Matrix+M12" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.7669897</Member>
+            <Member name="Matrix+M13" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M14" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M21" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.7669897</Member>
+            <Member name="Matrix+M22" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">-0.5259861</Member>
+            <Member name="Matrix+M23" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M24" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M31" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M32" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M33" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9300187</Member>
+            <Member name="Matrix+M34" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Matrix+M41" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">105.0453</Member>
+            <Member name="Matrix+M42" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">104.5596</Member>
+            <Member name="Matrix+M43" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.3552475</Member>
+            <Member name="Matrix+M44" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+          </Member>
+          <Member name="Entity+invTranspWorld" cast="reference">8c573fc3-2aa0-46a2-8583-f3390a4ed40c</Member>
+          <Member name="Entity+worldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+invTranspWorldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+translation" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="42a37ceb-ab34-4c67-a3ad-0543eeeb3d89">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">105.0453</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">104.5596</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.3552475</Member>
+          </Member>
+          <Member name="Entity+scale" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="6cffdd3b-c1d7-4952-98b1-7c36a1df632a">
+            <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9300187</Member>
+            <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9300187</Member>
+            <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.9300187</Member>
+          </Member>
+          <Member name="Entity+rotation" cast="object" type="SlimDX.Quaternion, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="ebdc490a-9879-4857-8dc0-921318d1fb73">
+            <Member name="Quaternion+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+            <Member name="Quaternion+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.88475</Member>
+            <Member name="Quaternion+W" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4660659</Member>
+          </Member>
+          <Member name="Entity+translationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+scaleOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+rotationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="HumanZombie+idleSoundChannel" cast="null" />
+          <Member name="NPC+onHitSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="NPC+onKilledSoundCooldown" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+piranhaSwimmingChannel" cast="null" />
+          <Member name="Unit+rippleI" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canControlMovementBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+canPerformAbilitiesBlockers" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+StartPerformAbility" cast="null" />
+          <Member name="Unit+animationsCount" cast="object" type="System.Collections.Generic.Dictionary`2[[Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026],[System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="d744d914-27e4-4439-ae01-4c2f061949b1">
+            <Element>
+              <Key cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">16</Key>
+              <Value cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">2</Value>
+            </Element>
+          </Member>
+          <Member name="Unit+idleAnimation" cast="value" type="Client.Game.Map.UnitAnimations, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">14</Member>
+          <Member name="Unit+&lt;CanControlRotationBlockers&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Unit+&lt;MeleeDamageBonus&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Destructible+isDestructible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Destructible+state" cast="value" type="Client.Game.Map.UnitState, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">3</Member>
+          <Member name="Destructible+TakesDamage" cast="null" />
+          <Member name="Destructible+currentScrollingCombatText" cast="null" />
+          <Member name="Destructible+&lt;Team&gt;k__BackingField" cast="value" type="Client.Game.Map.Team, Client, Version=0.3.8.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+          <Member name="Destructible+&lt;DamageLastFrame&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+          <Member name="Entity+children" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="1955ced0-44e7-4806-ad32-b75cd1b3e32e" />
+          <Member name="Entity+offspring" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="77be9afe-d199-4773-828b-0c3597d7facc" />
+          <Member name="Entity+clickable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+          <Member name="Entity+visible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+          <Member name="Entity+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Brute1</Member>
+          <Member name="Entity+&lt;Tag&gt;k__BackingField" cast="null" />
+          <Member name="Entity+&lt;OrientationRelation&gt;k__BackingField" cast="value" type="Graphics.OrientationRelation, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01">0</Member>
+        </Element>
+      </Member>
+      <Member name="Entity+offspring" cast="object" type="System.Collections.Generic.List`1[[Graphics.Entity, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01]], mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" reference="3176224c-034d-4bfa-8ec1-761593727e4b">
+        <Element cast="reference">c5946195-f9de-4434-80c3-89a469af8388</Element>
+        <Element cast="reference">02bbc782-06e2-41b7-8bdb-4a0bf89475c7</Element>
+        <Element cast="reference">7258d09a-f39d-42c8-b817-d9bfd17f40cd</Element>
+        <Element cast="reference">0be38973-0d56-4ec2-8df3-4cbfb91d48c8</Element>
+      </Member>
+      <Member name="Entity+world" cast="reference">8c573fc3-2aa0-46a2-8583-f3390a4ed40c</Member>
+      <Member name="Entity+invTranspWorld" cast="reference">8c573fc3-2aa0-46a2-8583-f3390a4ed40c</Member>
+      <Member name="Entity+worldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+      <Member name="Entity+invTranspWorldOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+      <Member name="Entity+translation" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="29e25306-0a5d-46a6-b017-ae62d6529092">
+        <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+        <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+      </Member>
+      <Member name="Entity+scale" cast="reference">6d5ab831-0de8-4388-a138-591afdcbbaac</Member>
+      <Member name="Entity+rotation" cast="reference">c0d5e108-92ac-4b79-b277-2fe29e0e4ffa</Member>
+      <Member name="Entity+translationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+      <Member name="Entity+scaleOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+      <Member name="Entity+rotationOk" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+      <Member name="Entity+clickable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+      <Member name="Entity+visible" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">True</Member>
+      <Member name="Entity+updateable" cast="value" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">False</Member>
+      <Member name="Entity+&lt;Name&gt;k__BackingField" cast="null" />
+      <Member name="Entity+&lt;Tag&gt;k__BackingField" cast="null" />
+      <Member name="Entity+&lt;OrientationRelation&gt;k__BackingField" cast="value" type="Graphics.OrientationRelation, Graphics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=250a1103c1eeeb01">0</Member>
+    </Member>
+  </Object>
+</Data>

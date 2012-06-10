@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Data>
+  <Object cast="object" type="Client.Game.Map.MapSettings, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026" reference="11a555db-a8ba-414c-a941-3efaba98ae70">
+    <Member name="MapSettings+ambientColor" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="686fc4a3-5bdb-42b8-8a1e-9a62dc843608">
+      <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.44</Member>
+      <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.46</Member>
+      <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.4</Member>
+    </Member>
+    <Member name="MapSettings+diffuseColor" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="e654ed5b-79f0-4de9-a90e-702e10fdfc62">
+      <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.18</Member>
+      <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.36</Member>
+      <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.1</Member>
+    </Member>
+    <Member name="MapSettings+specularColor" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="419d3621-32ea-4692-85e0-929bb4c2019a">
+      <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.38</Member>
+      <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.56</Member>
+      <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.2</Member>
+    </Member>
+    <Member name="MapSettings+fogColor" cast="object" type="SlimDX.Vector4, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="8a8049fb-6497-473f-9927-2cc89c8fe757">
+      <Member name="Vector4+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.5</Member>
+      <Member name="Vector4+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.62</Member>
+      <Member name="Vector4+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.46</Member>
+      <Member name="Vector4+W" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1</Member>
+    </Member>
+    <Member name="MapSettings+lightDirection" cast="object" type="SlimDX.Vector3, SlimDX, Version=2.0.10.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9" reference="8b5e6fc8-f865-4567-8113-b7b6d3e1399e">
+      <Member name="Vector3+X" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.7</Member>
+      <Member name="Vector3+Y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.7</Member>
+      <Member name="Vector3+Z" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.6</Member>
+    </Member>
+    <Member name="MapSettings+&lt;Name&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">$(MapName)</Member>
+    <Member name="MapSettings+&lt;Position&gt;k__BackingField" cast="object" type="System.Drawing.PointF, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" reference="124b35b8-717f-4f24-ab72-99003cfb7006">
+      <Member name="PointF+x" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+      <Member name="PointF+y" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0</Member>
+    </Member>
+    <Member name="MapSettings+&lt;Size&gt;k__BackingField" cast="object" type="System.Drawing.SizeF, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" reference="c31e1025-6c2b-4d4d-9f3f-1994fb75f474">
+      <Member name="SizeF+width" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">200</Member>
+      <Member name="SizeF+height" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">200</Member>
+    </Member>
+    <Member name="MapSettings+&lt;WaterHeight&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">0.2</Member>
+    <Member name="MapSettings+&lt;MapType&gt;k__BackingField" cast="value" type="Client.Game.Map.MapType, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">1</Member>
+    <Member name="MapSettings+&lt;FogExponent&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">1.6</Member>
+    <Member name="MapSettings+&lt;FogDistance&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">37</Member>
+    <Member name="MapSettings+&lt;CameraZFar&gt;k__BackingField" cast="value" type="System.Single, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">16</Member>
+    <Member name="MapSettings+&lt;MapVersion&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">119</Member>
+    <Member name="MapSettings+&lt;AmbienceTrack1&gt;k__BackingField" cast="value" type="Client.Sound.Stream, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+    <Member name="MapSettings+&lt;AmbienceTrack2&gt;k__BackingField" cast="value" type="Client.Sound.Stream, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+    <Member name="MapSettings+&lt;MusicTrack1&gt;k__BackingField" cast="value" type="Client.Sound.Stream, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+    <Member name="MapSettings+&lt;MusicTrack2&gt;k__BackingField" cast="value" type="Client.Sound.Stream, Client, Version=0.4.2.0, Culture=neutral, PublicKeyToken=d50bce06388dc026">0</Member>
+    <Member name="MapSettings+&lt;Objectives&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">$(MapObjectives)</Member>
+    <Member name="MapSettings+&lt;StaticDataSourceMap&gt;k__BackingField" cast="value" type="System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">CutsceneMap.map</Member>
+    <Member name="MapSettings+&lt;Stages&gt;k__BackingField" cast="value" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">5</Member>
+  </Object>
+</Data>

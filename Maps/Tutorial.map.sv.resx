@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Slam" xml:space="preserve">
+    <value>Du kan göra en extra kraftfull attack med närstridsvapen, kallas Slam. Slam kostnader ilska dock, blir så igång genom att gå över i ropet potten bredvid zombies, för att få en liten raseri uppsving. Sedan gå upp till zombie och tryck på höger musknapp. Som du kommer att märka, STUNS denna förmåga också i närheten fiender, vilket kan vara ganska händig ibland.</value>
+  </data>
+  <data name="Init" xml:space="preserve">
+    <value>För att flytta din karaktär, använda WASD-tangenterna. Håll muspekaren över olika delar i gränssnittet för att få information om vad de gör. När du känner dig bekväm med att flytta runt, följ vägen att ta reda på mer om spelet mekanik.</value>
+  </data>
+  <data name="Hit" xml:space="preserve">
+    <value>Försök att döda zombie där framme genom att slå honom med ditt svärd. Att slå honom med ditt svärd, går fram till honom och tryck på vänster musknapp. Håll den att fortsätta att attackera. Grinden öppnas när du slutför denna uppgift.</value>
+  </data>
+  <data name="Fire" xml:space="preserve">
+    <value>Du kan använda ditt gevär för att döda zombies. Går över ammunition rutan till höger för att plocka upp lite ammunition och sedan växla till lådan genom att trycka på gevär ikonen i gränssnittet, eller genom att trycka på [2]. Brand genom att trycka på vänster musknapp. Använd dina gevär är ett effektivt sätt att bli av med dina fiender, även om ammunitionen kan vara mycket ovanliga så använd den klokt.</value>
+  </data>
+  <data name="GhostBullet" xml:space="preserve">
+    <value>Du kan avfyra en extra kraftfull kula med varierade vapen, kallad Ghost kula. Denna kula kommer att resa genom väggar och fiender utan att skada dem, men när den når sitt mål var det exploderar, skadar allt omkring den. Försök som syftar till zombie och tryck på höger musknapp. Det är inte en dålig idé att kombinera vanliga bilder och här speciella bilden för att få ut det mesta av ditt vapen.</value>
+  </data>
+  <data name="End" xml:space="preserve">
+    <value>Grattis! Du har nu slutfört tutorial! Förstör bröstet och plocka upp ett motgift drycken för att slutföra kartan.</value>
+  </data>
+  <data name="MapName" xml:space="preserve">
+    <value>Tutorial</value>
+  </data>
+  <data name="MapObjectives" xml:space="preserve">
+    <value>Lär dig de grundläggande kontrollerna i Dead Uppfyller Bly</value>
+  </data>
+  <data name="InitTitle" xml:space="preserve">
+    <value>Välkommen till handledning av Dead Uppfyller Bly!</value>
+  </data>
+  <data name="HitTitle" xml:space="preserve">
+    <value>Träff</value>
+  </data>
+  <data name="SlamTitle" xml:space="preserve">
+    <value>Slam</value>
+  </data>
+  <data name="FireTitle" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="GhostBulletTitle" xml:space="preserve">
+    <value>Ghost bullet</value>
+  </data>
+  <data name="EndTitle" xml:space="preserve">
+    <value>Handledning avslutad</value>
+  </data>
+  <data name="TinyTomText" xml:space="preserve">
+    <value>Du hittade mig!</value>
+  </data>
+  <data name="TinyTomTitle" xml:space="preserve">
+    <value>Tiny Tom säger:</value>
+  </data>
+</root>
