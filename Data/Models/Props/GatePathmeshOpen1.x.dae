@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Assimp</author>
+      <authoring_tool>Assimp Exporter</authoring_tool>
+    </contributor>
+    <created>2016-10-02T20:43:00</created>
+    <modified>2016-10-02T20:43:00</modified>
+    <unit name="meter" meter="1" />
+    <up_axis>Y_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="m0mat-fx" name="m0mat">
+      <profile_COMMON>
+        <technique sid="standard">
+          <phong>
+            <emission>
+              <color sid="emission">0   0   0   1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.5   0.5   0.5   1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0   0   0   1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">1</float>
+            </shininess>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="m0mat" name="m0mat">
+      <instance_effect url="#m0mat-fx"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="meshId0" name="meshId0_name" >
+      <mesh>
+        <source id="meshId0-positions" name="meshId0-positions">
+          <float_array id="meshId0-positions-array" count="144"> -17.2925 28.1323 4.99491 -11.1342 28.1323 4.99491 -11.1342 -4.53028 4.99491 -17.2925 -4.53028 4.99491 -17.2925 28.1323 -4.94756 -11.1342 28.1323 -4.94756 -11.1342 28.1323 4.99491 -17.2925 28.1323 4.99491 -17.2925 -4.53028 -4.94756 -11.1342 -4.53028 -4.94756 -11.1342 28.1323 -4.94756 -17.2925 28.1323 -4.94756 -17.2925 -4.53028 4.99491 -11.1342 -4.53028 4.99491 -11.1342 -4.53028 -4.94756 -17.2925 -4.53028 -4.94756 -11.1342 28.1323 4.99491 -11.1342 28.1323 -4.94756 -11.1342 -4.53028 -4.94756 -11.1342 -4.53028 4.99491 -17.2925 28.1323 -4.94756 -17.2925 28.1323 4.99491 -17.2925 -4.53028 4.99491 -17.2925 -4.53028 -4.94756 11.2558 28.1323 4.99273 17.7797 28.1323 4.99273 17.7797 -4.53028 4.99273 11.2558 -4.53028 4.99273 11.2558 28.1323 -5.05271 17.7797 28.1323 -5.05271 17.7797 28.1323 4.99273 11.2558 28.1323 4.99273 11.2558 -4.53028 -5.05271 17.7797 -4.53028 -5.05271 17.7797 28.1323 -5.05271 11.2558 28.1323 -5.05271 11.2558 -4.53028 4.99273 17.7797 -4.53028 4.99273 17.7797 -4.53028 -5.05271 11.2558 -4.53028 -5.05271 17.7797 28.1323 4.99273 17.7797 28.1323 -5.05271 17.7797 -4.53028 -5.05271 17.7797 -4.53028 4.99273 11.2558 28.1323 -5.05271 11.2558 28.1323 4.99273 11.2558 -4.53028 4.99273 11.2558 -4.53028 -5.05271 </float_array>
+          <technique_common>
+            <accessor count="48" offset="0" source="#meshId0-positions-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="meshId0-normals" name="meshId0-normals">
+          <float_array id="meshId0-normals-array" count="144"> 0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 </float_array>
+          <technique_common>
+            <accessor count="48" offset="0" source="#meshId0-normals-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="meshId0-tex0" name="meshId0-tex0">
+          <float_array id="meshId0-tex0-array" count="96"> 0.375 1.25 0.625 1.25 0.625 1 0.375 1 0.375 1.5 0.625 1.5 0.625 1.25 0.375 1.25 0.375 1.75 0.625 1.75 0.625 1.5 0.375 1.5 0.375 2 0.625 2 0.625 1.75 0.375 1.75 0.625 1.25 0.875 1.25 0.875 1 0.625 1 0.125 1.25 0.375 1.25 0.375 1 0.125 1 0.375 1.25 0.625 1.25 0.625 1 0.375 1 0.375 1.5 0.625 1.5 0.625 1.25 0.375 1.25 0.375 1.75 0.625 1.75 0.625 1.5 0.375 1.5 0.375 2 0.625 2 0.625 1.75 0.375 1.75 0.625 1.25 0.875 1.25 0.875 1 0.625 1 0.125 1.25 0.375 1.25 0.375 1 0.125 1 </float_array>
+          <technique_common>
+            <accessor count="48" offset="0" source="#meshId0-tex0-array" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="meshId0-vertices">
+          <input semantic="POSITION" source="#meshId0-positions" />
+          <input semantic="NORMAL" source="#meshId0-normals" />
+          <input semantic="TEXCOORD" source="#meshId0-tex0"  />
+        </vertices>
+        <polylist count="12" material="defaultMaterial">
+          <input offset="0" semantic="VERTEX" source="#meshId0-vertices" />
+          <vcount>4 4 4 4 4 4 4 4 4 4 4 4 </vcount>
+          <p>3 2 1 0 7 6 5 4 11 10 9 8 15 14 13 12 19 18 17 16 23 22 21 20 27 26 25 24 31 30 29 28 35 34 33 32 39 38 37 36 43 42 41 40 47 46 45 44 </p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="$dummy_root" name="$dummy_root">
+      <node id="group1" name="group1">
+        <matrix>2.49413 0 0 0 0 2.49413 0 0 0 0 2.49413 0 0 0 -0 1</matrix>
+      </node>
+      <node id="polySurface1" name="polySurface1">
+        <matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 -0 1</matrix>
+        <instance_geometry url="#meshId0">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="defaultMaterial" target="#m0mat" />
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#$dummy_root" />
+  </scene>
+</COLLADA>
