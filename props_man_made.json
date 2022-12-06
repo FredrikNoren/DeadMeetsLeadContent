@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Altar1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Altar1.x",
+        "diffuse": "Data/Models/Props/Wall1.png",
+        "specular": "Data/Models/Props/WallSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "AlligatorWine",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bottle1.x",
+        "diffuse": "Data/Models/Props/AWBottle1.png",
+        "specular": "Data/Models/Props/PebbleSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Barrel1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Barrel1.x",
+        "diffuse": "Data/Models/Props/Barrel1.png",
+        "specular": "Data/Models/Props/BarrelSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Barrel2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Barrel2.x",
+        "diffuse": "Data/Models/Props/Barrel2.png",
+        "specular": "Data/Models/Props/BarrelSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Bench1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bench1.x",
+        "diffuse": "Data/Models/Props/Bench1.png",
+        "specular": "Data/Models/Props/BenchSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Bench2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bench2.x",
+        "diffuse": "Data/Models/Props/Bench1.png",
+        "specular": "Data/Models/Props/BenchSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Boat1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Boat1.x",
+        "diffuse": "Data/Models/Props/Boat1.png",
+        "specular": "Data/Models/Props/BoatSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Boat2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Boat2.x",
+        "diffuse": "Data/Models/Props/Boat1.png",
+        "specular": "Data/Models/Props/BoatSpecular1.png",
+        "specular_exponent": 8,
+        "use_specular": true
+    },
+    {
+        "name": "Bridge1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bridge1.x",
+        "diffuse": "Data/Models/Props/Bridge1.png",
+        "specular": "Data/Models/Props/BridgeSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "BridgeRaising1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/BridgeRaising1.x",
+        "diffuse": "Data/Models/Props/Bridge1.png",
+        "specular": "Data/Models/Props/BridgeSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Bucket1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bucket1.x",
+        "diffuse": "Data/Models/Props/Bucket1.png",
+        "specular": "Data/Models/Props/BucketSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Bucket2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bucket2.x",
+        "diffuse": "Data/Models/Props/Bucket1.png",
+        "specular": "Data/Models/Props/BucketSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Bucket3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Bucket3.x",
+        "diffuse": "Data/Models/Props/Bucket1.png",
+        "specular": "Data/Models/Props/BucketSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cannon1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cannon1.x",
+        "diffuse": "Data/Models/Props/Cannon1.png",
+        "specular": "Data/Models/Props/CannonSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cannon2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cannon2.x",
+        "diffuse": "Data/Models/Props/Cannon1.png",
+        "specular": "Data/Models/Props/CannonSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cannonball1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cannonball1.x",
+        "diffuse": "Data/Models/Props/Cannonball1.png",
+        "specular": "Data/Models/Props/CannonballSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cannonball2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cannonball2.x",
+        "diffuse": "Data/Models/Props/Cannonball1.png",
+        "specular": "Data/Models/Props/CannonballSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cart1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cart1.x",
+        "diffuse": "Data/Models/Props/Cart1.png",
+        "specular": "Data/Models/Props/CartSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Cart2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Cart2.x",
+        "diffuse": "Data/Models/Props/Cart1.png",
+        "specular": "Data/Models/Props/CartSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Crate1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Crate1.x",
+        "diffuse": "Data/Models/Props/Crate1.png",
+        "specular": "Data/Models/Props/CrateSpecular1.png",
+        "specular_exponent": 5,
+        "use_specular": true
+    },
+    {
+        "name": "Crate2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Crate2.x",
+        "diffuse": "Data/Models/Props/Crate1.png",
+        "specular": "Data/Models/Props/CrateSpecular1.png",
+        "specular_exponent": 5,
+        "use_specular": true
+    },
+    {
+        "name": "Crate3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Crate3.x",
+        "diffuse": "Data/Models/Props/Crate1.png",
+        "specular": "Data/Models/Props/CrateSpecular1.png",
+        "specular_exponent": 5,
+        "use_specular": true
+    },
+    {
+        "name": "Fence1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fence1.x",
+        "diffuse": "Data/Models/Props/Fence1.png",
+        "specular": "Data/Models/Props/FenceSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Fence2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fence2.x",
+        "diffuse": "Data/Models/Props/Fence1.png"
+    },
+    {
+        "name": "Fence3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fence3.x",
+        "diffuse": "Data/Models/Props/Fence1.png"
+    },
+    {
+        "name": "Fence4",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fence4.x",
+        "diffuse": "Data/Models/Props/Fence1.png"
+    },
+    {
+        "name": "Fireplace1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fireplace1.x",
+        "diffuse": "Data/Models/Props/Fireplace1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "FireplaceBurning1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/FireplaceBurning1.x",
+        "diffuse": "Data/Models/Props/FireplaceBurning1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "FloatingPlank1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/FloatingPlank1.x",
+        "diffuse": "Data/Models/Props/FloatingPlank1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "FloatingPlank2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/FloatingPlank2.x",
+        "diffuse": "Data/Models/Props/FloatingPlank2.png"
+    },
+    {
+        "name": "Hammer1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Hammer1.x",
+        "diffuse": "Data/Models/Props/Hammer1.png",
+        "specular": "Data/Models/Props/HammerSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Hut1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Hut1.x",
+        "diffuse": "Data/Models/Props/Hut1.png",
+        "specular": "Data/Models/Props/HutSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Hut2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Hut2.x",
+        "diffuse": "Data/Models/Props/Hut1.png",
+        "specular": "Data/Models/Props/HutSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Piranhasign",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Piranhasign1.x",
+        "diffuse": "Data/Models/Props/Piranhasign1.png",
+        "specular": "Data/Models/Props/PiranhasignSpecular1.png",
+        "specular_exponent": 8,
+        "use_specular": true
+    },
+    {
+        "name": "PostLantern1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/PostLantern1.x",
+        "diffuse": "Data/Models/Props/PostLantern1.png",
+        "specular": "Data/Models/Props/PostLanternSpecular1.png",
+        "alpha_threshold": 0.6,
+        "specular_exponent": 8,
+        "use_specular": true
+    },
+    {
+        "name": "Torch1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Torch1.x",
+        "diffuse": "Data/Models/Props/Torch1.png",
+        "alpha_threshold": 0.6,
+        "specular_exponent": 8
+    },
+    {
+        "name": "PostLantern2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/PostLantern1.x",
+        "diffuse": "Data/Models/Props/PostLantern2.png",
+        "specular": "Data/Models/Props/PostLanternSpecular1.png",
+        "alpha_threshold": 0.6,
+        "use_specular": true
+    },
+    {
+        "name": "Rifle1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Rifle1.x",
+        "diffuse": "Data/Models/Props/Rifle1.png",
+        "specular": "Data/Models/Props/RifleSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "HandCannon1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/HandCannon1.x",
+        "diffuse": "Data/Models/Props/HandCannon1.png",
+        "specular": "Data/Models/Props/HandCannonSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "HandMortar1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/HandMortar1.x",
+        "diffuse": "Data/Models/Props/Blaster1.png",
+        "specular": "Data/Models/Props/BlasterSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "GatlingGun1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/GatlingGun1.x",
+        "diffuse": "Data/Models/Props/GatlingGun1.png",
+        "specular": "Data/Models/Props/GatlingGunSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Rope1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Rope1.x",
+        "diffuse": "Data/Models/Props/Rope1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "Sword1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Sword1.x",
+        "diffuse": "Data/Models/Props/Sword1.png",
+        "specular": "Data/Models/Props/SwordSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Sword2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Sword1.x",
+        "diffuse": "Data/Models/Props/Sword2.png",
+        "specular": "Data/Models/Props/SwordSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Sword3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Sword1.x",
+        "diffuse": "Data/Models/Props/Sword3.png",
+        "specular": "Data/Models/Props/SwordSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Spear1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Spear1.x",
+        "diffuse": "Data/Models/Props/Spear1.png",
+        "specular": "Data/Models/Props/SpearSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Spear2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Spear1.x",
+        "diffuse": "Data/Models/Props/Spear2.png",
+        "specular": "Data/Models/Props/SpearSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Spear3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Spear1.x",
+        "diffuse": "Data/Models/Props/Spear3.png",
+        "specular": "Data/Models/Props/SpearSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "MayaHammer1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MayaHammer1.x",
+        "diffuse": "Data/Models/Props/MayaHammer1.png",
+        "specular": "Data/Models/Props/MayaHammerSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "MayaHammer2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MayaHammer1.x",
+        "diffuse": "Data/Models/Props/MayaHammer2.png",
+        "specular": "Data/Models/Props/MayaHammerSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "MayaHammer3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MayaHammer1.x",
+        "diffuse": "Data/Models/Props/MayaHammer3.png",
+        "specular": "Data/Models/Props/MayaHammerSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Tent1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Tent1.x",
+        "diffuse": "Data/Models/Props/Tent1.png",
+        "specular": "Data/Models/Props/TentSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Totem1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Totem1.x",
+        "diffuse": "Data/Models/Props/Totem1.png"
+    },
+    {
+        "name": "Wall1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Wall1.x",
+        "diffuse": "Data/Models/Props/Wall1.png",
+        "specular": "Data/Models/Props/WallSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Wall2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Wall2.x",
+        "diffuse": "Data/Models/Props/Wall1.png",
+        "specular": "Data/Models/Props/WallSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Wall3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Wall3.x",
+        "diffuse": "Data/Models/Props/Wall1.png",
+        "specular": "Data/Models/Props/WallSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "WallEnd1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/WallEnd1.x",
+        "diffuse": "Data/Models/Props/WallEnd1.png",
+        "specular": "Data/Models/Props/WallendSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Gate1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Gate1.x",
+        "diffuse": "Data/Models/Props/Gate1.png",
+        "specular": "Data/Models/Props/GateSpecular1.png",
+        "specular_exponent": 6,
+        "use_specular": true
+    }
+]

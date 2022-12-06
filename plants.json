@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Fern1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fern1.x'",
+        "diffuse": "Data/Models/Props/Fern1.png",
+        "specular": "Data/Models/Props/FernSpecular1.png",
+        "alpha_threshold": 0.6,
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Fern2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Fern2.x",
+        "diffuse": "Data/Models/Props/Fern2.png",
+        "specular": "Data/Models/Props/FernSpecular2.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "FieldPlant1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/FieldPlant1.x",
+        "diffuse": "Data/Models/Props/FieldPlant1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "Flower1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Flower1.x",
+        "diffuse": "Data/Models/Props/Flower1.png"
+    },
+    {
+        "name": "Forestplants1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Forestplants1.x",
+        "diffuse": "Data/Models/Props/Forestplants1.png",
+        "alpha_threshold": 0.01,
+        "alpha": true
+    },
+    {
+        "name": "Forestplants2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Forestplants2.x",
+        "diffuse": "Data/Models/Props/Forestplants2.png",
+        "alpha_threshold": 0.01,
+        "alpha": true
+    },
+    {
+        "name": "Leaf1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Leaf1.x",
+        "diffuse": "Data/Models/Props/Leaf1.png",
+        "specular": "Data/Models/Props/LeafSpecular1.png",
+        "specular_exponent": 10,
+        "use_specular": true
+    },
+    {
+        "name": "Leaf2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Leaf2.x",
+        "diffuse": "Data/Models/Props/Leaf1.png"
+    },
+    {
+        "name": "Palmtree1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Palmtree1.x",
+        "diffuse": "Data/Models/Props/Palmtree1.png",
+        "specular": "Data/Models/Props/PalmtreeSpecular1.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Palmtree2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Palmtree2.x",
+        "diffuse": "Data/Models/Props/Palmtree2.png",
+        "specular": "Data/Models/Props/PalmtreeSpecular2.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Rottentree1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Rottentree1.x",
+        "diffuse": "Data/Models/Props/Rottentree1.png",
+        "alpha_threshold": 0.99
+    },
+    {
+        "name": "Shrub1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Shrub1.x",
+        "diffuse": "Data/Models/Props/Shrub1.png",
+        "specular": "Data/Models/Props/ShrubSpecular2.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 8,
+        "use_specular": true
+    },
+    {
+        "name": "Shrub2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Shrub2.x",
+        "diffuse": "Data/Models/Props/Shrub2.png",
+        "alpha_threshold": 0.4
+    },
+    {
+        "name": "Shrubbery1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Shrubbery1.x",
+        "diffuse": "Data/Models/Props/Shrub1.png",
+        "alpha_threshold": 0.4
+    },
+    {
+        "name": "Swamptree1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Swamptree1.x",
+        "diffuse": "Data/Models/Props/Swamptree1.png",
+        "specular": "Data/Models/Props/SwamptreeSpecular1.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Swamptree2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Swamptree2.x",
+        "diffuse": "Data/Models/Props/Swamptree1.png",
+        "specular": "Data/Models/Props/SwamptreeSpecular1.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "WaterLily1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/WaterLily1.x",
+        "diffuse": "Data/Models/Props/WaterLily1.png",
+        "alpha_threshold": 0.99
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Chicken1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Chicken1.x",
+        "diffuse": "Data/Models/Props/Chicken1.png",
+        "alpha_threshold": 0.4
+    },
+    {
+        "name": "FloatingTreetrunk1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/FloatingTreetrunk1.x",
+        "diffuse": "Data/Models/Props/FloatingTreetrunk1.png",
+        "specular": "Data/Models/Props/FloatingTreetrunkSpecular1.png",
+        "specular_exponent": 8,
+        "use_specular": true
+    },
+    {
+        "name": "Litter1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Litter1.x",
+        "diffuse": "Data/Models/Props/Litter1.png"
+    },
+    {
+        "name": "Mosquito1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Mosquito1.x",
+        "diffuse": "Data/Models/Props/Mosquito1.png"
+    },
+    {
+        "name": "Pebble1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Pebble1.x",
+        "diffuse": "Data/Models/Props/Pebble1.png",
+        "specular": "Data/Models/Props/PebbleSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Pebble2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Pebble2.x",
+        "diffuse": "Data/Models/Props/Pebble2.png",
+        "specular": "Data/Models/Props/PebbleSpecular2.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Pebble3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Pebble3.x",
+        "diffuse": "Data/Models/Props/Pebble3.png",
+        "specular": "Data/Models/Props/PebbleSpecular3.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Pebble4",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Pebble4.x",
+        "diffuse": "Data/Models/Props/Pebble4.png",
+        "specular": "Data/Models/Props/PebbleSpecular3.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "MudPebble1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MudPebble1.x",
+        "diffuse": "Data/Models/Props/MudPebble1.png",
+        "specular": "Data/Models/Props/MudPebbleSpecular1.png",
+        "specular_exponent": 3,
+        "use_specular": true
+    },
+    {
+        "name": "MudPebble2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MudPebble2.x",
+        "diffuse": "Data/Models/Props/MudPebble1.png",
+        "specular": "Data/Models/Props/MudPebbleSpecular1.png",
+        "specular_exponent": 3,
+        "use_specular": true
+    },
+    {
+        "name": "MudPebble3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/MudPebble3.x",
+        "diffuse": "Data/Models/Props/MudPebble1.png",
+        "specular": "Data/Models/Props/MudPebbleSpecular1.png",
+        "specular_exponent": 3,
+        "use_specular": true
+    },
+    {
+        "name": "GravelStone1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/GravelStone1.x",
+        "diffuse": "Data/Models/Props/GravelStone1.png",
+        "specular": "Data/Models/Props/GravelStone1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Piranha1",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Piranha1.x",
+        "diffuse": "Data/Models/Props/Piranha1.png"
+    },
+    {
+        "name": "SittingZombie1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/ZombieSit1.x",
+        "diffuse": "Data/Models/Props/ZombieSitting1.png",
+        "specular": "Data/Models/Props/ZombieSittingSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 5,
+        "use_specular": true
+    },
+    {
+        "name": "SittingZombie2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/ZombieSit2.x",
+        "diffuse": "Data/Models/Props/Zombie1.png",
+        "specular": "Data/Models/Props/ZombieSittingSpecular1.png",
+        "alpha_threshold": 0.99,
+        "specular_exponent": 5,
+        "use_specular": true
+    },
+    {
+        "name": "Spiderweb1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Spiderweb1.x",
+        "diffuse": "Data/Models/Props/Spiderweb1.png",
+        "alpha_threshold": 0.01,
+        "alpha": true
+    },
+    {
+        "name": "Stone1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Stone1.x",
+        "diffuse": "Data/Models/Props/Stone1.png",
+        "specular": "Data/Models/Props/StoneSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Stone2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Stone2.x",
+        "diffuse": "Data/Models/Props/Stone2.png",
+        "specular": "Data/Models/Props/StoneSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Stone3",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Stone3.x",
+        "diffuse": "Data/Models/Props/Stone3.png",
+        "specular": "Data/Models/Props/StoneSpecular3.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Stone4",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Stone4.x",
+        "diffuse": "Data/Models/Props/Stone4.png",
+        "specular": "Data/Models/Props/StoneSpecular4.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Tallgrass1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Tallgrass1.x",
+        "diffuse": "Data/Models/Props/Tallgrass1.png",
+        "alpha": true
+    },
+    {
+        "name": "Tallgrass2",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Tallgrass2.x",
+        "diffuse": "Data/Models/Props/Tallgrass1.png",
+        "alpha_threshold": 0.4
+    },
+    {
+        "name": "Tallgrass3",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Props/Tallgrass3.x",
+        "diffuse": "Data/Models/Props/Tallgrass1.png",
+        "alpha_threshold": 0.4
+    },
+    {
+        "name": "Treetrunk1",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Treetrunk1.x",
+        "diffuse": "Data/Models/Props/Treetrunk1.png",
+        "specular": "Data/Models/Props/TreetrunkSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "Treetrunk2",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Treetrunk2.x",
+        "diffuse": "Data/Models/Props/Treetrunk1.png",
+        "specular": "Data/Models/Props/TreetrunkSpecular1.png",
+        "specular_exponent": 4,
+        "use_specular": true
+    },
+    {
+        "name": "DestructibleChest",
+        "inherits": "DmlEntity",
+        "model": "Data/Models/Props/Chest1.x",
+        "diffuse": "Data/Models/Props/Chest1.png",
+        "specular": "Data/Models/Props/ChestSpecular1.png",
+        "specular_exponent": 8,
+        "use_specular": true
+    }
+]
