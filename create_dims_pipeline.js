@@ -2,7 +2,7 @@ const manMade = require('./props_man_made.json');
 const generic = require('./props_generic.json');
 const plants = require('./plants.json');
 
-function createPipelines(source, tags) {
+function createModelPipelines(source, tags) {
     return source.map(item => {
         return {
             pipeline: {
@@ -38,9 +38,33 @@ function createPipelines(source, tags) {
     });
 }
 
+const groundTextures = [
+    { diffuse: 'Field1.png' },
+    { diffuse: 'Grass1.png', specular: 'GrassSpecular1.png' },
+    { diffuse: 'Grass2.png', specular: 'GrassSpecular1.png' },
+    { diffuse: 'Mayatile1.png' },
+    { diffuse: 'Moss1.png', specular: 'MossSpecular1.png' },
+    { diffuse: 'Mud1.png', specular: 'MudSpecular1.png' },
+    { diffuse: 'Pebbles1.png', specular: 'PebblesSpecular1.png' },
+    { diffuse: 'Rock1.png', specular: 'RockSpecular1.png' },
+    { diffuse: 'Sand1.png', specular: 'SandSpecular1.png' },
+    { diffuse: 'Vines1.png' },
+].map(mat => ({
+    pipeline: {
+        type: 'Materials',
+        importer: {
+            type: 'Single',
+            name: mat.diffuse,
+            base_color: `Data/Models/GroundTextures/${mat.diffuse}`,
+            specular: mat.specular ? `Data/Models/GroundTextures/${mat.specular}` : undefined
+        }
+    },
+}));
+
 let pipelines = [
-    ...createPipelines(manMade, ['Man made']),
-    ...createPipelines(generic, ["Generic"]),
-    ...createPipelines(plants, ["Plants"])
+    ...createModelPipelines(manMade, ['Man made']),
+    ...createModelPipelines(generic, ["Generic"]),
+    ...createModelPipelines(plants, ["Plants"]),
+    ...groundTextures
 ];
 require('fs').writeFileSync('dims_pipeline.json', JSON.stringify(pipelines, null, 2));

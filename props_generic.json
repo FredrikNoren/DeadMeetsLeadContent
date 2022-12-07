@@ -12,8 +12,8 @@
         "track_name": "Idle1",
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Props/FloatingTreetrunk1.x",
-        "diffuse": "Data/Models/Props/FloatingTreetrunk1.png",
-        "specular": "Data/Models/Props/FloatingTreetrunkSpecular1.png",
+        "diffuse": "Data/Models/Props/Floatingtreetrunk1.png",
+        "specular": "Data/Models/Props/FloatingtreetrunkSpecular1.png",
         "specular_exponent": 8,
         "use_specular": true
     },
@@ -21,7 +21,7 @@
         "name": "Litter1",
         "inherits": "DmlEntity",
         "model": "Data/Models/Props/Litter1.x",
-        "diffuse": "Data/Models/Props/Litter1.png"
+        "diffuse": "Data/Models/Props/litter1.png"
     },
     {
         "name": "Mosquito1",
