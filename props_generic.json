@@ -123,7 +123,7 @@
         "name": "SittingZombie2",
         "inherits": "DmlEntity",
         "model": "Data/Models/Props/ZombieSit2.x",
-        "diffuse": "Data/Models/Props/Zombie1.png",
+        "diffuse": "Data/Models/Units/Zombie1.png",
         "specular": "Data/Models/Props/ZombieSittingSpecular1.png",
         "alpha_threshold": 0.99,
         "specular_exponent": 5,

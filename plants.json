@@ -23,7 +23,7 @@
         "track_name": "Idle1",
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Props/FieldPlant1.x",
-        "diffuse": "Data/Models/Props/FieldPlant1.png",
+        "diffuse": "Data/Models/Props/Fieldplant1.png",
         "alpha_threshold": 0.99
     },
     {
@@ -46,7 +46,7 @@
         "track_name": "Idle1",
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Props/Forestplants2.x",
-        "diffuse": "Data/Models/Props/Forestplants2.png",
+        "diffuse": "Data/Models/Props/Forestplants1.png",
         "alpha_threshold": 0.01,
         "alpha": true
     },
