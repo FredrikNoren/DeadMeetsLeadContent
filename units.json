@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Brute1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Brute1.glb",
+        "diffuse": "Data/Models/Units/Brute1.png",
+        "specular": "Data/Models/Units/BruteSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "Oxen",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Oxen1.glb",
+        "diffuse": "Data/Models/Units/Oxen1.png",
+        "specular": "Data/Models/Units/OxenSpecular1.png",
+        "alpha_threshold": 0.4,
+        "specular_exponent": 6,
+        "use_specular": true
+    },
+    {
+        "name": "VoodooPriest",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/VoodooPriest1.glb",
+        "diffuse": "Data/Models/Units/VoodooPriest1.png",
+        "specular": "Data/Models/Units/VoodooPriestSpecular1.png",
+        "specular_exponent": 6
+    },
+    {
+        "name": "Commander",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Zombie1.glb",
+        "diffuse": "Data/Models/Units/Commander1.png",
+        "specular": "Data/Models/Units/CommanderSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "DemonLord",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/DemonLord1.glb",
+        "diffuse": "Data/Models/Units/DemonLord1.png",
+        "specular": "Data/Models/Units/DemonLordSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "Ghoul",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Ghoul1.glb",
+        "diffuse": "Data/Models/Units/Ghoul1.png",
+        "specular": "Data/Models/Units/GhoulSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "Zombie",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Zombie1.glb",
+        "diffuse": "Data/Models/Units/Zombie1.png",
+        "specular": "Data/Models/Units/ZombieSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "Wolf",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Wolf1.glb",
+        "diffuse": "Data/Models/Units/Wolf1.png",
+        "specular": "Data/Models/Units/WolfSpecular1.png"
+    },
+    {
+        "name": "Infected",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Ghoul1.glb",
+        "diffuse": "Data/Models/Units/Infected1.png",
+        "specular": "Data/Models/Units/GhoulSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "MainCharacter",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/MainCharacter1.glb",
+        "diffuse": "Data/Models/Units/MainCharacter1.png",
+        "specular": "Data/Models/Units/MainCharacterSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "Rotten",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Rotten1.glb",
+        "diffuse": "Data/Models/Units/Rotten1.png",
+        "specular": "Data/Models/Units/RottenSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    },
+    {
+        "name": "ZombieBoss",
+        "track_name": "Idle1",
+        "inherits": "AnimatedDmlEntity",
+        "model": "Data/Models/Units/Brute1.glb",
+        "diffuse": "Data/Models/Units/Zombieboss1.png",
+        "specular": "Data/Models/Units/ZombiebossSpecular1.png",
+        "alpha_threshold": 1,
+        "specular_exponent": 6
+    }
+]

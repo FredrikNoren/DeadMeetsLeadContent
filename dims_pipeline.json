@@ -4014,6 +4014,486 @@
   },
   {
     "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Brute1.png",
+            "specular": "Data/Models/Units/BruteSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Brute1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Oxen1.png",
+            "specular": "Data/Models/Units/OxenSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 0.4,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Oxen1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/VoodooPriest1.png",
+            "specular": "Data/Models/Units/VoodooPriestSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 0.95,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/VoodooPriest1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Commander1.png",
+            "specular": "Data/Models/Units/CommanderSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Zombie1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/DemonLord1.png",
+            "specular": "Data/Models/Units/DemonLordSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/DemonLord1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Ghoul1.png",
+            "specular": "Data/Models/Units/GhoulSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Ghoul1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Zombie1.png",
+            "specular": "Data/Models/Units/ZombieSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Zombie1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Wolf1.png",
+            "specular": "Data/Models/Units/WolfSpecular1.png",
+            "specular_exponent": null,
+            "alpha_cutoff": 0.95,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Wolf1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Infected1.png",
+            "specular": "Data/Models/Units/GhoulSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Ghoul1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/MainCharacter1.png",
+            "specular": "Data/Models/Units/MainCharacterSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/MainCharacter1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Rotten1.png",
+            "specular": "Data/Models/Units/RottenSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Rotten1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
+      "type": "Models",
+      "importer": {
+        "type": "Regular"
+      },
+      "output_objects": true,
+      "output_animations": true,
+      "collider": {
+        "type": "FromModel"
+      },
+      "material_overrides": [
+        {
+          "filter": {
+            "type": "All"
+          },
+          "material": {
+            "base_color": "Data/Models/Units/Zombieboss1.png",
+            "specular": "Data/Models/Units/ZombiebossSpecular1.png",
+            "specular_exponent": 0.6000000000000001,
+            "alpha_cutoff": 1,
+            "metalic": 1,
+            "roughness": 1
+          }
+        }
+      ],
+      "transforms": [
+        {
+          "type": "Scale",
+          "scale": 0.1
+        }
+      ]
+    },
+    "sources": [
+      "Data/Models/Units/Brute1.glb"
+    ],
+    "tags": [
+      "Units"
+    ]
+  },
+  {
+    "pipeline": {
       "type": "Materials",
       "importer": {
         "type": "Single",

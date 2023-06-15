@@ -1,6 +1,7 @@
 const manMade = require('./props_man_made.json');
 const generic = require('./props_generic.json');
 const plants = require('./plants.json');
+const units = require('./units.json');
 
 function createModelPipelines(source, tags) {
     return source.map(item => {
@@ -65,6 +66,7 @@ let pipelines = [
     ...createModelPipelines(manMade, ['Man made']),
     ...createModelPipelines(generic, ["Generic"]),
     ...createModelPipelines(plants, ["Plants"]),
+    ...createModelPipelines(units, ["Units"]),
     ...groundTextures
 ];
 require('fs').writeFileSync('dims_pipeline.json', JSON.stringify(pipelines, null, 2));
