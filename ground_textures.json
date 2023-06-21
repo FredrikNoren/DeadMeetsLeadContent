@@ -1,0 +1,39 @@
+[
+    {
+        "diffuse": "Field1.png"
+    },
+    {
+        "diffuse": "Grass1.png",
+        "specular": "GrassSpecular1.png"
+    },
+    {
+        "diffuse": "Grass2.png",
+        "specular": "GrassSpecular1.png"
+    },
+    {
+        "diffuse": "Mayatile1.png"
+    },
+    {
+        "diffuse": "Moss1.png",
+        "specular": "MossSpecular1.png"
+    },
+    {
+        "diffuse": "Mud1.png",
+        "specular": "MudSpecular1.png"
+    },
+    {
+        "diffuse": "Pebbles1.png",
+        "specular": "PebblesSpecular1.png"
+    },
+    {
+        "diffuse": "Rock1.png",
+        "specular": "RockSpecular1.png"
+    },
+    {
+        "diffuse": "Sand1.png",
+        "specular": "SandSpecular1.png"
+    },
+    {
+        "diffuse": "Vines1.png"
+    }
+]

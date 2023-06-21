@@ -1,0 +1,2969 @@
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Altar1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Wall1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/WallSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bottle1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/AWBottle1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PebbleSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Barrel1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Barrel1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BarrelSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Barrel2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Barrel1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BarrelSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bench1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bench1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BenchSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bench2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bench1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BenchSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Boat1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Boat1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BoatSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Boat2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Boat1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BoatSpecular1.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bridge1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bridge1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BridgeSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/BridgeRaising1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bridge1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BridgeSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bucket1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bucket1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BucketSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bucket2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bucket1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BucketSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Bucket3.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Bucket1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BucketSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cannon1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cannon1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CannonSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cannon2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cannon1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CannonSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cannonball1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cannonball1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CannonballSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cannonball2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cannonball1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CannonballSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cart1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cart1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CartSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Cart2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Cart1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CartSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Crate1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Crate1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CrateSpecular1.png"
+specular_exponent = 0.5
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Crate2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Crate1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CrateSpecular1.png"
+specular_exponent = 0.5
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Crate3.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Crate1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/CrateSpecular1.png"
+specular_exponent = 0.5
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fence1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fence1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/FenceSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fence2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fence1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fence3.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fence1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fence4.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fence1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fireplace1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fireplace1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/FireplaceBurning1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/FireplaceBurning1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/FloatingPlank1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/FloatingPlank1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/FloatingPlank2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/FloatingPlank2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Hammer1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Hammer1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/HammerSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Hut1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Hut1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/HutSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Hut2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Hut1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/HutSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Piranhasign1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Piranhasign1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PiranhasignSpecular1.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/PostLantern1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Postlantern1.png"
+alpha_cutoff = 0.6000000238418579
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PostlanternSpecular1.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Torch1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Torch1.png"
+alpha_cutoff = 0.6000000238418579
+metallic = 1.0
+roughness = 1.0
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/PostLantern1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Postlantern2.png"
+alpha_cutoff = 0.6000000238418579
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PostlanternSpecular1.png"
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Rifle1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Rifle1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/RifleSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/HandCannon1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/HandCannon1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/HandCannonSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/HandMortar1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Blaster1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/BlasterSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/GatlingGun1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/GatlingGun1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/GatlingGunSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Rope1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Rope1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Sword1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Sword1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SwordSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Sword1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Sword2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SwordSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Sword1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Sword3.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SwordSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Spear1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Spear1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SpearSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Spear1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Spear2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SpearSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Spear1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Spear3.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SpearSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MayaHammer1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MayaHammer1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MayaHammerSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MayaHammer1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MayaHammer2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MayaHammerSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MayaHammer1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MayaHammer3.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MayaHammerSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Tent1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Tent1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/TentSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Totem1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Totem1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Wall1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Wall1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/WallSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Wall2.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Wall1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/WallSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Wall3.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Wall1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/WallSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/WallEnd1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/WallEnd1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/WallendSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Gate1.glb"]
+tags = ["Man made"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Gate1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/GateSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Chicken1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Chicken1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/FloatingTreetrunk1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Floatingtreetrunk1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/FloatingtreetrunkSpecular1.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Litter1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/litter1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Mosquito1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Mosquito1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Pebble1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Pebble1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PebbleSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Pebble2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Pebble2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PebbleSpecular2.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Pebble3.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Pebble3.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PebbleSpecular3.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Pebble4.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Pebble4.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PebbleSpecular3.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MudPebble1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MudPebble1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MudPebbleSpecular1.png"
+specular_exponent = 0.30000001192092896
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MudPebble2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MudPebble1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MudPebbleSpecular1.png"
+specular_exponent = 0.30000001192092896
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/MudPebble3.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/MudPebble1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/MudPebbleSpecular1.png"
+specular_exponent = 0.30000001192092896
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/GravelStone1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/GravelStone1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/GravelStone1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Piranha1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Piranha1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/ZombieSit1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/ZombieSitting1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/ZombieSittingSpecular1.png"
+specular_exponent = 0.5
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/ZombieSit2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Zombie1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/ZombieSittingSpecular1.png"
+specular_exponent = 0.5
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Spiderweb1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Spiderweb1.png"
+alpha_cutoff = 0.009999999776482582
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Stone1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Stone1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/StoneSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Stone2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Stone2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/StoneSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Stone3.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Stone3.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/StoneSpecular3.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Stone4.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Stone4.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/StoneSpecular4.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Tallgrass1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Tallgrass1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Tallgrass2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Tallgrass1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Tallgrass3.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Tallgrass1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Treetrunk1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Treetrunk1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/TreetrunkSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Treetrunk2.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Treetrunk1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/TreetrunkSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Chest1.glb"]
+tags = ["Generic"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Chest1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/ChestSpecular1.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fern1.glb'"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fern1.png"
+alpha_cutoff = 0.6000000238418579
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/FernSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Fern2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fern2.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/FernSpecular2.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/FieldPlant1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Fieldplant1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Flower1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Flower1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Forestplants1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Forestplants1.png"
+alpha_cutoff = 0.009999999776482582
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Forestplants2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Forestplants1.png"
+alpha_cutoff = 0.009999999776482582
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Leaf1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Leaf1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/LeafSpecular1.png"
+specular_exponent = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Leaf2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Leaf1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Palmtree1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Palmtree1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PalmtreeSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Palmtree2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Palmtree2.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/PalmtreeSpecular2.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Rottentree1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Rottentree1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Shrub1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Shrub1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/ShrubSpecular2.png"
+specular_exponent = 0.800000011920929
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Shrub2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Shrub2.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Shrubbery1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Shrub1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Swamptree1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Swamptree1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SwamptreeSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/Swamptree2.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/Swamptree1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Props/SwamptreeSpecular1.png"
+specular_exponent = 0.4000000059604645
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Props/WaterLily1.glb"]
+tags = ["Plants"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Props/WaterLily1.png"
+alpha_cutoff = 0.9900000095367432
+metallic = 1.0
+roughness = 1.0
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Brute1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Brute1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/BruteSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Oxen1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Oxen1.png"
+alpha_cutoff = 0.4000000059604645
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/OxenSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/VoodooPriest1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/VoodooPriest1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/VoodooPriestSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Zombie1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Commander1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/CommanderSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/DemonLord1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/DemonLord1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/DemonLordSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Ghoul1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Ghoul1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/GhoulSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Zombie1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Zombie1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/ZombieSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Wolf1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Wolf1.png"
+alpha_cutoff = 0.949999988079071
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/WolfSpecular1.png"
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Ghoul1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Infected1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/GhoulSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/MainCharacter1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/MainCharacter1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/MainCharacterSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Rotten1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Rotten1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/RottenSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Models"
+sources = ["Data/Models/Units/Brute1.glb"]
+tags = ["Units"]
+
+[pipelines.collider]
+type = "FromModel"
+reverse_indices = false
+
+[[pipelines.material_overrides]]
+
+[pipelines.material_overrides.filter]
+type = "All"
+
+[pipelines.material_overrides.material]
+base_color = "Data/Models/Units/Zombieboss1.png"
+alpha_cutoff = 1.0
+metallic = 1.0
+roughness = 1.0
+specular = "Data/Models/Units/ZombiebossSpecular1.png"
+specular_exponent = 0.6000000238418579
+
+[[pipelines.transforms]]
+type = "Scale"
+scale = 0.10000000149011612
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Field1.png"
+base_color = "Data/Models/GroundTextures/Field1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Grass1.png"
+base_color = "Data/Models/GroundTextures/Grass1.png"
+specular = "Data/Models/GroundTextures/GrassSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Grass2.png"
+base_color = "Data/Models/GroundTextures/Grass2.png"
+specular = "Data/Models/GroundTextures/GrassSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Mayatile1.png"
+base_color = "Data/Models/GroundTextures/Mayatile1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Moss1.png"
+base_color = "Data/Models/GroundTextures/Moss1.png"
+specular = "Data/Models/GroundTextures/MossSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Mud1.png"
+base_color = "Data/Models/GroundTextures/Mud1.png"
+specular = "Data/Models/GroundTextures/MudSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Pebbles1.png"
+base_color = "Data/Models/GroundTextures/Pebbles1.png"
+specular = "Data/Models/GroundTextures/PebblesSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Rock1.png"
+base_color = "Data/Models/GroundTextures/Rock1.png"
+specular = "Data/Models/GroundTextures/RockSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Sand1.png"
+base_color = "Data/Models/GroundTextures/Sand1.png"
+specular = "Data/Models/GroundTextures/SandSpecular1.png"
+
+[[pipelines]]
+type = "Materials"
+
+[pipelines.importer]
+type = "Single"
+name = "Vines1.png"
+base_color = "Data/Models/GroundTextures/Vines1.png"
