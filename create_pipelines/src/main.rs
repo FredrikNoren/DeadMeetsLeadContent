@@ -52,7 +52,7 @@ fn create_model_pipelines(source: Vec<Model>, tags: Vec<String>) -> Vec<Pipeline
                 transforms: vec![ModelTransform::Scale { scale: 0.1 }],
                 ..Default::default()
             }),
-            sources: vec![item.model.replace(".x", ".glb")],
+            sources: vec![item.model],
             tags: tags.clone(),
             categories: vec![],
         })

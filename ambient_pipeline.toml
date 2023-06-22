@@ -1,6 +1,6 @@
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Altar1.glb"]
+sources = ["Data/Models/Props/Altar1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -26,7 +26,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bottle1.glb"]
+sources = ["Data/Models/Props/Bottle1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -52,7 +52,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Barrel1.glb"]
+sources = ["Data/Models/Props/Barrel1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -78,7 +78,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Barrel2.glb"]
+sources = ["Data/Models/Props/Barrel2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -104,7 +104,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bench1.glb"]
+sources = ["Data/Models/Props/Bench1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -130,7 +130,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bench2.glb"]
+sources = ["Data/Models/Props/Bench2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -156,7 +156,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Boat1.glb"]
+sources = ["Data/Models/Props/Boat1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -182,7 +182,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Boat2.glb"]
+sources = ["Data/Models/Props/Boat2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -208,7 +208,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bridge1.glb"]
+sources = ["Data/Models/Props/Bridge1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -234,7 +234,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/BridgeRaising1.glb"]
+sources = ["Data/Models/Props/BridgeRaising1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -260,7 +260,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bucket1.glb"]
+sources = ["Data/Models/Props/Bucket1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -286,7 +286,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bucket2.glb"]
+sources = ["Data/Models/Props/Bucket2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -312,7 +312,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Bucket3.glb"]
+sources = ["Data/Models/Props/Bucket3.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -338,7 +338,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cannon1.glb"]
+sources = ["Data/Models/Props/Cannon1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -364,7 +364,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cannon2.glb"]
+sources = ["Data/Models/Props/Cannon2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -390,7 +390,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cannonball1.glb"]
+sources = ["Data/Models/Props/Cannonball1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -416,7 +416,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cannonball2.glb"]
+sources = ["Data/Models/Props/Cannonball2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -442,7 +442,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cart1.glb"]
+sources = ["Data/Models/Props/Cart1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -468,7 +468,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Cart2.glb"]
+sources = ["Data/Models/Props/Cart2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -494,7 +494,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Crate1.glb"]
+sources = ["Data/Models/Props/Crate1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -520,7 +520,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Crate2.glb"]
+sources = ["Data/Models/Props/Crate2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -546,7 +546,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Crate3.glb"]
+sources = ["Data/Models/Props/Crate3.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -572,7 +572,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fence1.glb"]
+sources = ["Data/Models/Props/Fence1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -598,7 +598,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fence2.glb"]
+sources = ["Data/Models/Props/Fence2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -622,7 +622,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fence3.glb"]
+sources = ["Data/Models/Props/Fence3.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -646,7 +646,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fence4.glb"]
+sources = ["Data/Models/Props/Fence4.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -670,7 +670,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fireplace1.glb"]
+sources = ["Data/Models/Props/Fireplace1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -694,7 +694,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/FireplaceBurning1.glb"]
+sources = ["Data/Models/Props/FireplaceBurning1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -718,7 +718,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/FloatingPlank1.glb"]
+sources = ["Data/Models/Props/FloatingPlank1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -742,7 +742,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/FloatingPlank2.glb"]
+sources = ["Data/Models/Props/FloatingPlank2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -766,7 +766,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Hammer1.glb"]
+sources = ["Data/Models/Props/Hammer1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -792,7 +792,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Hut1.glb"]
+sources = ["Data/Models/Props/Hut1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -818,7 +818,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Hut2.glb"]
+sources = ["Data/Models/Props/Hut2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -844,7 +844,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Piranhasign1.glb"]
+sources = ["Data/Models/Props/Piranhasign1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -870,7 +870,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/PostLantern1.glb"]
+sources = ["Data/Models/Props/PostLantern1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -896,7 +896,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Torch1.glb"]
+sources = ["Data/Models/Props/Torch1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -921,7 +921,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/PostLantern1.glb"]
+sources = ["Data/Models/Props/PostLantern1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -946,7 +946,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Rifle1.glb"]
+sources = ["Data/Models/Props/Rifle1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -972,7 +972,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/HandCannon1.glb"]
+sources = ["Data/Models/Props/HandCannon1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -998,7 +998,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/HandMortar1.glb"]
+sources = ["Data/Models/Props/HandMortar1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1024,7 +1024,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/GatlingGun1.glb"]
+sources = ["Data/Models/Props/GatlingGun1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1050,7 +1050,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Rope1.glb"]
+sources = ["Data/Models/Props/Rope1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1074,7 +1074,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Sword1.glb"]
+sources = ["Data/Models/Props/Sword1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1100,7 +1100,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Sword1.glb"]
+sources = ["Data/Models/Props/Sword1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1126,7 +1126,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Sword1.glb"]
+sources = ["Data/Models/Props/Sword1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1152,7 +1152,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Spear1.glb"]
+sources = ["Data/Models/Props/Spear1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1178,7 +1178,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Spear1.glb"]
+sources = ["Data/Models/Props/Spear1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1204,7 +1204,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Spear1.glb"]
+sources = ["Data/Models/Props/Spear1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1230,7 +1230,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MayaHammer1.glb"]
+sources = ["Data/Models/Props/MayaHammer1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1256,7 +1256,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MayaHammer1.glb"]
+sources = ["Data/Models/Props/MayaHammer1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1282,7 +1282,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MayaHammer1.glb"]
+sources = ["Data/Models/Props/MayaHammer1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1308,7 +1308,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Tent1.glb"]
+sources = ["Data/Models/Props/Tent1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1334,7 +1334,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Totem1.glb"]
+sources = ["Data/Models/Props/Totem1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1358,7 +1358,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Wall1.glb"]
+sources = ["Data/Models/Props/Wall1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1384,7 +1384,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Wall2.glb"]
+sources = ["Data/Models/Props/Wall2.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1410,7 +1410,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Wall3.glb"]
+sources = ["Data/Models/Props/Wall3.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1436,7 +1436,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/WallEnd1.glb"]
+sources = ["Data/Models/Props/WallEnd1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1462,7 +1462,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Gate1.glb"]
+sources = ["Data/Models/Props/Gate1.x"]
 tags = ["Man made"]
 
 [pipelines.collider]
@@ -1488,7 +1488,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Chicken1.glb"]
+sources = ["Data/Models/Props/Chicken1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1512,7 +1512,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/FloatingTreetrunk1.glb"]
+sources = ["Data/Models/Props/FloatingTreetrunk1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1538,7 +1538,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Litter1.glb"]
+sources = ["Data/Models/Props/Litter1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1562,7 +1562,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Mosquito1.glb"]
+sources = ["Data/Models/Props/Mosquito1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1586,7 +1586,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Pebble1.glb"]
+sources = ["Data/Models/Props/Pebble1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1612,7 +1612,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Pebble2.glb"]
+sources = ["Data/Models/Props/Pebble2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1638,7 +1638,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Pebble3.glb"]
+sources = ["Data/Models/Props/Pebble3.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1664,7 +1664,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Pebble4.glb"]
+sources = ["Data/Models/Props/Pebble4.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1690,7 +1690,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MudPebble1.glb"]
+sources = ["Data/Models/Props/MudPebble1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1716,7 +1716,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MudPebble2.glb"]
+sources = ["Data/Models/Props/MudPebble2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1742,7 +1742,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/MudPebble3.glb"]
+sources = ["Data/Models/Props/MudPebble3.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1768,7 +1768,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/GravelStone1.glb"]
+sources = ["Data/Models/Props/GravelStone1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1794,7 +1794,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Piranha1.glb"]
+sources = ["Data/Models/Props/Piranha1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1818,7 +1818,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/ZombieSit1.glb"]
+sources = ["Data/Models/Props/ZombieSit1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1844,7 +1844,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/ZombieSit2.glb"]
+sources = ["Data/Models/Props/ZombieSit2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1870,7 +1870,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Spiderweb1.glb"]
+sources = ["Data/Models/Props/Spiderweb1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1894,7 +1894,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Stone1.glb"]
+sources = ["Data/Models/Props/Stone1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1920,7 +1920,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Stone2.glb"]
+sources = ["Data/Models/Props/Stone2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1946,7 +1946,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Stone3.glb"]
+sources = ["Data/Models/Props/Stone3.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1972,7 +1972,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Stone4.glb"]
+sources = ["Data/Models/Props/Stone4.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -1998,7 +1998,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Tallgrass1.glb"]
+sources = ["Data/Models/Props/Tallgrass1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2022,7 +2022,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Tallgrass2.glb"]
+sources = ["Data/Models/Props/Tallgrass2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2046,7 +2046,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Tallgrass3.glb"]
+sources = ["Data/Models/Props/Tallgrass3.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2070,7 +2070,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Treetrunk1.glb"]
+sources = ["Data/Models/Props/Treetrunk1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2096,7 +2096,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Treetrunk2.glb"]
+sources = ["Data/Models/Props/Treetrunk2.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2122,7 +2122,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Chest1.glb"]
+sources = ["Data/Models/Props/Chest1.x"]
 tags = ["Generic"]
 
 [pipelines.collider]
@@ -2148,7 +2148,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fern1.glb'"]
+sources = ["Data/Models/Props/Fern1.x'"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2174,7 +2174,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Fern2.glb"]
+sources = ["Data/Models/Props/Fern2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2200,7 +2200,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/FieldPlant1.glb"]
+sources = ["Data/Models/Props/FieldPlant1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2224,7 +2224,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Flower1.glb"]
+sources = ["Data/Models/Props/Flower1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2248,7 +2248,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Forestplants1.glb"]
+sources = ["Data/Models/Props/Forestplants1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2272,7 +2272,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Forestplants2.glb"]
+sources = ["Data/Models/Props/Forestplants2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2296,7 +2296,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Leaf1.glb"]
+sources = ["Data/Models/Props/Leaf1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2322,7 +2322,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Leaf2.glb"]
+sources = ["Data/Models/Props/Leaf2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2346,7 +2346,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Palmtree1.glb"]
+sources = ["Data/Models/Props/Palmtree1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2372,7 +2372,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Palmtree2.glb"]
+sources = ["Data/Models/Props/Palmtree2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2398,7 +2398,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Rottentree1.glb"]
+sources = ["Data/Models/Props/Rottentree1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2422,7 +2422,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Shrub1.glb"]
+sources = ["Data/Models/Props/Shrub1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2448,7 +2448,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Shrub2.glb"]
+sources = ["Data/Models/Props/Shrub2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2472,7 +2472,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Shrubbery1.glb"]
+sources = ["Data/Models/Props/Shrubbery1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2496,7 +2496,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Swamptree1.glb"]
+sources = ["Data/Models/Props/Swamptree1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2522,7 +2522,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/Swamptree2.glb"]
+sources = ["Data/Models/Props/Swamptree2.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2548,7 +2548,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Props/WaterLily1.glb"]
+sources = ["Data/Models/Props/WaterLily1.x"]
 tags = ["Plants"]
 
 [pipelines.collider]
@@ -2572,7 +2572,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Brute1.glb"]
+sources = ["Data/Models/Units/Brute1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2598,7 +2598,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Oxen1.glb"]
+sources = ["Data/Models/Units/Oxen1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2624,7 +2624,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/VoodooPriest1.glb"]
+sources = ["Data/Models/Units/VoodooPriest1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2650,7 +2650,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Zombie1.glb"]
+sources = ["Data/Models/Units/Zombie1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2676,7 +2676,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/DemonLord1.glb"]
+sources = ["Data/Models/Units/DemonLord1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2702,7 +2702,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Ghoul1.glb"]
+sources = ["Data/Models/Units/Ghoul1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2728,7 +2728,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Zombie1.glb"]
+sources = ["Data/Models/Units/Zombie1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2754,7 +2754,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Wolf1.glb"]
+sources = ["Data/Models/Units/Wolf1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2779,7 +2779,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Ghoul1.glb"]
+sources = ["Data/Models/Units/Ghoul1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2805,7 +2805,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/MainCharacter1.glb"]
+sources = ["Data/Models/Units/MainCharacter1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2831,7 +2831,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Rotten1.glb"]
+sources = ["Data/Models/Units/Rotten1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
@@ -2857,7 +2857,7 @@ scale = 0.10000000149011612
 
 [[pipelines]]
 type = "Models"
-sources = ["Data/Models/Units/Brute1.glb"]
+sources = ["Data/Models/Units/Brute1.x"]
 tags = ["Units"]
 
 [pipelines.collider]
