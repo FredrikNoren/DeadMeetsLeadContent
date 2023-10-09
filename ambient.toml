@@ -1,0 +1,6 @@
+[package]
+id = "msv44hokzr4os6ndsi6sj6jynbp2ruij"
+name = "package"
+version = "0.0.1"
+content = { type = "Playable" }
+ambient_version = "0.3.0-nightly-2023-10-04"

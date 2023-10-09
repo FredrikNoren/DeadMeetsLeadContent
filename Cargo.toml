@@ -1,0 +1,29 @@
+[package]
+name = "package"
+
+edition = "2021"
+publish = false
+version = "0.0.1"
+
+[dependencies]
+ambient_api = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.0-nightly-2023-10-04" }
+
+[[bin]]
+name = "package_client"
+path = "src/client.rs"
+required-features = ["client"]
+
+[[bin]]
+name = "package_server"
+path = "src/server.rs"
+required-features = ["server"]
+
+[features]
+client = ["ambient_api/client"]
+server = ["ambient_api/server"]
+
+[build-dependencies]
+ambient_pipeline_types = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.0-nightly-2023-10-04" }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1"
+toml = "0.7"

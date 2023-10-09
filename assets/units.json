@@ -43,7 +43,7 @@
         "track_name": "Idle1",
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Units/DemonLord1.x",
-        "diffuse": "Data/Models/Units/DemonLord1.png",
+        "diffuse": "Data/Models/Units/Demonlord1.png",
         "specular": "Data/Models/Units/DemonLordSpecular1.png",
         "alpha_threshold": 1,
         "specular_exponent": 6

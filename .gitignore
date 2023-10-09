@@ -1,0 +1,6 @@
+**/target
+**/build
+**/tmp
+**/.DS_Store
+**/data
+assets/pipeline.toml

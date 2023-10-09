@@ -44,8 +44,8 @@ fn create_model_pipelines(source: Vec<Model>, tags: Vec<String>) -> Vec<Pipeline
                         specular: item.specular.and_then(|x| x.parse().ok()),
                         specular_exponent: item.specular_exponent.map(|x| x * 0.1),
                         alpha_cutoff: Some(item.alpha_threshold.unwrap_or(0.95)),
-                        metallic: Some(1.),
-                        roughness: Some(1.),
+                        metallic_factor: Some(1.),
+                        roughness_factor: Some(1.),
                         ..Default::default()
                     },
                 }],
@@ -61,14 +61,14 @@ fn create_model_pipelines(source: Vec<Model>, tags: Vec<String>) -> Vec<Pipeline
 
 fn main() {
     let man_made: Vec<Model> =
-        serde_json::from_str(include_str!("../../props_man_made.json")).unwrap();
+        serde_json::from_str(include_str!("assets/props_man_made.json")).unwrap();
     let generic: Vec<Model> =
-        serde_json::from_str(include_str!("../../props_generic.json")).unwrap();
-    let plants: Vec<Model> = serde_json::from_str(include_str!("../../plants.json")).unwrap();
-    let units: Vec<Model> = serde_json::from_str(include_str!("../../units.json")).unwrap();
+        serde_json::from_str(include_str!("assets/props_generic.json")).unwrap();
+    let plants: Vec<Model> = serde_json::from_str(include_str!("assets/plants.json")).unwrap();
+    let units: Vec<Model> = serde_json::from_str(include_str!("assets/units.json")).unwrap();
 
     let ground_textures: Vec<GroundTexture> =
-        serde_json::from_str(include_str!("../../ground_textures.json")).unwrap();
+        serde_json::from_str(include_str!("assets/ground_textures.json")).unwrap();
 
     let ground_textures = ground_textures
         .into_iter()
@@ -105,7 +105,7 @@ fn main() {
     .flatten()
     .collect::<Vec<_>>();
     std::fs::write(
-        "../ambient_pipeline.toml",
+        "assets/pipeline.toml",
         toml::to_string_pretty(&PipelinesFile { pipelines }).unwrap(),
     )
     .unwrap();
