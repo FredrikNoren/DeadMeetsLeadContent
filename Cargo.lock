@@ -507,6 +507,17 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c2e66c9d817f1720209181c316d28635c050fa304f9c79e47a520882661b7308"
 
 [[package]]
+name = "dead_meets_lead_content"
+version = "0.0.1"
+dependencies = [
+ "ambient_api",
+ "ambient_pipeline_types",
+ "serde",
+ "serde_json",
+ "toml",
+]
+
+[[package]]
 name = "derivative"
 version = "2.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1078,17 +1089,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "2a54938017eacd63036332b4ae5c8a49fc8c0c1d6d629893057e4f13609edd06"
 dependencies = [
  "num-traits",
-]
-
-[[package]]
-name = "package"
-version = "0.0.1"
-dependencies = [
- "ambient_api",
- "ambient_pipeline_types",
- "serde",
- "serde_json",
- "toml",
 ]
 
 [[package]]
