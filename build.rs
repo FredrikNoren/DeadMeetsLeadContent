@@ -109,4 +109,8 @@ fn main() {
         toml::to_string_pretty(&PipelinesFile { pipelines }).unwrap(),
     )
     .unwrap();
+
+    println!("cargo:rerun-if-changed=assets/*.json");
+    println!("cargo:rerun-if-changed=assets/Data");
+    println!("cargo:rerun-if-changed=assets/Maps");
 }

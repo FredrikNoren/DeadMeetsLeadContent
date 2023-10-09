@@ -1,16 +1,24 @@
 use ambient_api::{
+    animation::{AnimationPlayerRef, PlayClipFromUrlNodeRef},
     core::{
+        animation::components::apply_animation_player,
         camera::concepts::{
             PerspectiveInfiniteReverseCamera, PerspectiveInfiniteReverseCameraOptional,
         },
+        package::components::main_package_id,
+        prefab::components::prefab_from_url,
         primitives::components::quad,
-        transform::components::{lookat_target, translation},
+        transform::{
+            components::{lookat_target, translation},
+            concepts::Transformable,
+        },
     },
     prelude::*,
 };
+use packages::this::assets;
 
 #[main]
-pub fn main() {
+pub async fn main() {
     let is_main_package = entity::wait_for_component(entity::resources(), main_package_id()).await
         == Some(packages::this::entity());
 
@@ -33,11 +41,15 @@ pub fn main() {
                 local_to_world: Default::default(),
                 optional: Default::default(),
             })
-            .with(prefab_from_url(), assets::url("Data/Units/Zombie1.x"))
+            .with(
+                prefab_from_url(),
+                assets::url("Data/Models/Units/Zombie1.x"),
+            )
             .spawn();
 
-        let idle =
-            PlayClipFromUrlNodeRef::new(assets::url("Data/Units/Zombie1.x/animations/Run1.anim"));
+        let idle = PlayClipFromUrlNodeRef::new(assets::url(
+            "Data/Models/Units/Zombie1.x/animations/Run1.anim",
+        ));
         let anim_player = AnimationPlayerRef::new(idle);
         entity::add_component(zombie, apply_animation_player(), anim_player.0);
     }

@@ -1,12 +1,12 @@
 [package]
-name = "package"
+name = "dead_meets_lead_content"
 
 edition = "2021"
 publish = false
 version = "0.0.1"
 
 [dependencies]
-ambient_api = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.0-nightly-2023-10-04" }
+ambient_api = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.1-nightly-2023-10-09" }
 
 [[bin]]
 name = "package_client"
@@ -23,7 +23,7 @@ client = ["ambient_api/client"]
 server = ["ambient_api/server"]
 
 [build-dependencies]
-ambient_pipeline_types = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.0-nightly-2023-10-04" }
+ambient_pipeline_types = { git = "https://github.com/AmbientRun/Ambient.git", tag = "v0.3.1-nightly-2023-10-09" }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1"
 toml = "0.7"
