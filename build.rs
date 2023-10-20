@@ -49,7 +49,10 @@ fn create_model_pipelines(source: Vec<Model>, tags: Vec<String>) -> Vec<Pipeline
                         ..Default::default()
                     },
                 }],
-                transforms: vec![ModelTransform::Scale { scale: 0.1 }],
+                transforms: vec![
+                    ModelTransform::Scale { scale: 0.1 },
+                    ModelTransform::RotateZ { deg: -90. },
+                ],
                 ..Default::default()
             }),
             sources: vec![item.model],
