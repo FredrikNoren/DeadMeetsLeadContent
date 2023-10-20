@@ -178,6 +178,7 @@
         "inherits": "DmlEntity",
         "model": "Data/Models/Props/Tallgrass1.x",
         "diffuse": "Data/Models/Props/Tallgrass1.png",
+        "alpha_threshold": 0.4,
         "alpha": true
     },
     {
@@ -186,7 +187,8 @@
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Props/Tallgrass2.x",
         "diffuse": "Data/Models/Props/Tallgrass1.png",
-        "alpha_threshold": 0.4
+        "alpha_threshold": 0.4,
+        "alpha": true
     },
     {
         "name": "Tallgrass3",
@@ -194,7 +196,8 @@
         "inherits": "AnimatedDmlEntity",
         "model": "Data/Models/Props/Tallgrass3.x",
         "diffuse": "Data/Models/Props/Tallgrass1.png",
-        "alpha_threshold": 0.4
+        "alpha_threshold": 0.4,
+        "alpha": true
     },
     {
         "name": "Treetrunk1",

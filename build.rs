@@ -15,6 +15,7 @@ struct Model {
     diffuse: String,
     specular: Option<String>,
     alpha_threshold: Option<f32>,
+    alpha: Option<bool>,
     specular_exponent: Option<f32>,
     use_specular: Option<bool>,
 }
@@ -46,6 +47,7 @@ fn create_model_pipelines(source: Vec<Model>, tags: Vec<String>) -> Vec<Pipeline
                         alpha_cutoff: Some(item.alpha_threshold.unwrap_or(0.95)),
                         metallic_factor: Some(1.),
                         roughness_factor: Some(1.),
+                        transparent: item.alpha,
                         ..Default::default()
                     },
                 }],
