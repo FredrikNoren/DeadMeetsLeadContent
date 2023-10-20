@@ -2,7 +2,7 @@
     {
         "name": "Fern1",
         "inherits": "DmlEntity",
-        "model": "Data/Models/Props/Fern1.x'",
+        "model": "Data/Models/Props/Fern1.x",
         "diffuse": "Data/Models/Props/Fern1.png",
         "specular": "Data/Models/Props/FernSpecular1.png",
         "alpha_threshold": 0.6,
